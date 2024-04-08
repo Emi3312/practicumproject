@@ -152,6 +152,9 @@ export default DataInputComponent;
 
 
 /*
+
+Hola desde mac os
+
 Datos para probar:
 
 Materias:
